@@ -12,7 +12,7 @@ namespace PullRequest
         {
 
             int x = 1;
-            int y = abc;
+            string y = abc;
 
         }
     }
